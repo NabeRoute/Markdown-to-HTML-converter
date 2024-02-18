@@ -1,5 +1,4 @@
-
-# File Manipulator
+# File Converter
 
 `file-converter.py`は、マークダウンファイルをHTMLに変換するプログラムです。
 
